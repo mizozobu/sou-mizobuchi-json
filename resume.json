@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Sou Mizobuchi",
+    "label": "Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/27652080?s=460&v=4",
+    "email": "hamc.m.so.j12@gmail.com",
+    "phone": "",
+    "website": "https://registry.jsonresume.org/mizozobu",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Tokyo",
+      "countryCode": "Japan",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IBM",
+      "position": "IT Specialist",
+      "website": "https://www.ibm.com",
+      "startDate": "2019-10-01",
+      "endDate": "2019-10-01",
+      "summary": "",
+      "highlights": [
+        "Starting in October 2019"
+      ]
+    },
+    {
+      "company": "WESEEK",
+      "position": "Full-Stack JavaScript Developer Intern",
+      "website": "https://weseek.co.jp",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-31",
+      "summary": "",
+      "highlights": [
+        "Implemented features such as OAuth, XSS prevention, and IFTTT to open source internal wiki system with MERN stack",
+        "Performed market research and competitor analysis and identified features that bring competitive advantage",
+        "Directed the team in the agile development cycle and guided the product towards SaaS beta release"
+      ]
+    },
+    {
+      "company": "BASF",
+      "position": "Marketing Intern",
+      "website": "https://www.basf.com",
+      "startDate": "2017-07-01",
+      "endDate": "2017-08-31",
+      "summary": "",
+      "highlights": [
+        "Created a data collection form using VBA ensuring data validations and the UI for technically non-proficient users",
+        "Designed and created a database from unstructured data using VBA and SQL",
+        "Performed sales-cost-based segmentation analysis under the direction of the marketing manager of BASF Japan, which was anticipated to result in $.5 million reduction in plant maintenance costs"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Church of Jesus Christ of Latter-day Saints",
+      "position": "Voluntary Representative",
+      "website": "https://www.lds.org",
+      "startDate": "2014-02-12",
+      "endDate": "2016-02-12",
+      "summary": "",
+      "highlights": [
+        "Supervised a multi-language group of 6-10 representatives and trained them on problem-solving and task-management",
+        "Improved performance by analyzing data, helping other representatives set goals, and following up with them weekly to achieve the best results",
+        "Provided over 10 hours a week of community service in local food banks and regional parks"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brigham Young University",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2017-01-01",
+      "endDate": "2018-04-30",
+      "gpa": "3.8",
+      "courses": [
+        ""
+      ]
+    },
+    {
+      "institution": "Brigham Young University-Hawaii",
+      "area": "General Studies",
+      "studyType": "Bachelor (Transfer Student)",
+      "startDate": "2017-03-01",
+      "endDate": "2017-11-01",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Front-End Web",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript",
+        "jQuery",
+        "React.js"
+      ]
+    },
+    {
+      "name": "Back-End Web",
+      "level": "Master",
+      "keywords": [
+        "Node.js",
+        "Python - Django",
+        "C#.NET"
+      ]
+    },
+    {
+      "name": "Mobile App",
+      "level": "Master",
+      "keywords": [
+        "Swift"
+      ]
+    },
+    {
+      "name": "Container Management",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Data Analytics",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "SQL",
+        "No-SQL",
+        "VBA",
+        "Tableau"
+      ]
+    },
+    {
+      "name": "Business",
+      "level": "Master",
+      "keywords": [
+        "QuickBooks"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Japanese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Business"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Tennis",
+        "Baseball",
+        "Soccer"
+      ]
+    }
+  ],
+  "references": [
+  ]
+}
